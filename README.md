@@ -58,6 +58,10 @@ Sebelum menggunakan library ini, pastikan kamu sudah mengimpor:
 ```
 ---
 ## ⚙️ Cara Penggunaan
+Gunakan ini jika ingin lebih cepat 👇
+https://linktreebuilder.netlify.app/
+
+---
 ```html
 <script>
   Linktree.init({
